@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": "1.0.0",
-    "name": "마병대",
-    "description": "마병대 입소 (1.20.4)",
-    "icon": "https://github.com/IPECTER/BackToMilitaryDuty-Files/raw/main/server-icon.png",
+    "name": "유니크 길드 면접",
+    "description": "유니크 길드 면접 (1.20.4)",
+    "icon": "https://github.com/HeliosLauncher-IPECTER/BackToMilitaryDuty-Files/raw/main/server-icon.png",
     "address": "rmaaa.kro.kr",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",

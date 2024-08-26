@@ -30,7 +30,7 @@
           "artifact": {
             "size": 1327275,
             "MD5": "13832fed8b4ba82a4dd000b4c4b2e429",
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/repo/lib/net/fabricmc/fabric-loader/0.15.7/fabric-loader-0.15.7.jar"
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/repo/lib/net/fabricmc/fabric-loader/0.15.7/fabric-loader-0.15.7.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 2847,
                 "MD5": "05b9315802cdbf6ff13f40258f070769",
-                "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/repo/versions/1.20.4-fabric-0.15.7/1.20.4-fabric-0.15.7.json"
+                "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/repo/versions/1.20.4-fabric-0.15.7/1.20.4-fabric-0.15.7.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 123598,
                 "MD5": "6f8bccf756f170d4185bb24c8c2d2020",
-                "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/repo/lib/org/ow2/asm/asm/9.6/asm-9.6.jar"
+                "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/repo/lib/org/ow2/asm/asm/9.6/asm-9.6.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 34041,
                 "MD5": "31c84ef7cc893fb278952ae2d6a2674f",
-                "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
+                "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 72194,
                 "MD5": "9e317c75534bd1da8c00a67c618ab288",
-                "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/repo/lib/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
+                "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/repo/lib/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 51935,
                 "MD5": "6062608f1a98afe1e853d01fa1221a9e",
-                "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/repo/lib/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
+                "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/repo/lib/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 91131,
                 "MD5": "bd3bc1c176a787373e9a031073c9574b",
-                "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/repo/lib/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
+                "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/repo/lib/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 1451874,
                 "MD5": "4cc3ff559cafdc70d9ed80e869d447f0",
-                "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/repo/lib/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar"
+                "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/repo/lib/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 608319,
                 "MD5": "3a1cade1634c518db6147c9771686ea9",
-                "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/repo/lib/net/fabricmc/intermediary/1.20.4/intermediary-1.20.4.jar"
+                "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/repo/lib/net/fabricmc/intermediary/1.20.4/intermediary-1.20.4.jar"
               }
             }
           ]
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 587429,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/architectury-11.1.17-fabric.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/architectury-11.1.17-fabric.jar",
             "MD5": "666d154657c8c2241377720d679dc6de"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 395874,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/balm-fabric-1.20.4-9.0.6.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/balm-fabric-1.20.4-9.0.6.jar",
             "MD5": "93bc966b65255a20cb557084fff74619"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1776259,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/BetterF3-9.0.2-Fabric-1.20.4.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/BetterF3-9.0.2-Fabric-1.20.4.jar",
             "MD5": "24fa26b55c158717323b0cb1abe58232"
           }
         },
@@ -151,7 +151,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 21587,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/bettermounthud-1.2.2.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/bettermounthud-1.2.2.jar",
             "MD5": "fdd255bd204f7d84850fd31ba687ad01"
           }
         },
@@ -161,7 +161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 127984,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/caramelChat-mc1.20.4-fabric-1.1.1.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/caramelChat-mc1.20.4-fabric-1.1.1.jar",
             "MD5": "ce211fbef99feb36a042efd65ac28876"
           }
         },
@@ -171,7 +171,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1142084,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/cloth-config-13.0.121-fabric.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/cloth-config-13.0.121-fabric.jar",
             "MD5": "3903e7d3c9957bacedae1365ba856202"
           }
         },
@@ -181,7 +181,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 88116,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/defaultoptions-fabric-1.20.4-20.0.1.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/defaultoptions-fabric-1.20.4-20.0.1.jar",
             "MD5": "285dbc771fef5a795eddf5df7aad23f5"
           }
         },
@@ -191,7 +191,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 59582,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/entityculling-fabric-1.6.4-mc1.20.4.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/entityculling-fabric-1.6.4-mc1.20.4.jar",
             "MD5": "7b3ee1a853de2b28906b9840f3cba3ae"
           }
         },
@@ -201,7 +201,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2160959,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/fabric-api-0.96.11+1.20.4.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/fabric-api-0.96.11+1.20.4.jar",
             "MD5": "43fe492304dbd663fb3148d4f5c4a024"
           }
         },
@@ -211,7 +211,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 6734779,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/fabric-language-kotlin-1.10.19+kotlin.1.9.23.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/fabric-language-kotlin-1.10.19+kotlin.1.9.23.jar",
             "MD5": "aa6ae207640288876f5b8551f5e33459"
           }
         },
@@ -221,7 +221,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 125100,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/ferritecore-6.0.3-fabric.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/ferritecore-6.0.3-fabric.jar",
             "MD5": "a684cfcdbc32eddaf78782fb4e5762f4"
           }
         },
@@ -231,7 +231,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 104805,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/indium-1.0.30+mc1.20.4.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/indium-1.0.30+mc1.20.4.jar",
             "MD5": "e0b3675f1e6e8f00da58d42ec1bd1be7"
           }
         },
@@ -241,7 +241,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2671419,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/iris-1.7.0+mc1.20.4.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/iris-1.7.0+mc1.20.4.jar",
             "MD5": "4cd07c5091cc9646ea26f7242a316bbe"
           }
         },
@@ -251,7 +251,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 16552,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/Ksyxis-1.2.2.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/Ksyxis-1.2.2.jar",
             "MD5": "0a024833bc17e2036e186f55a8b9c0c8"
           }
         },
@@ -261,7 +261,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 568669,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/lambdynamiclights-2.3.4+1.20.4.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/lambdynamiclights-2.3.4+1.20.4.jar",
             "MD5": "3c849e6337ff7c850762c6cc27f607ab"
           }
         },
@@ -271,7 +271,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 200750,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/language-reload-1.5.10+1.20.3.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/language-reload-1.5.10+1.20.3.jar",
             "MD5": "fce9c13a98f7cacdad7710e51ca75b20"
           }
         },
@@ -281,7 +281,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 25020,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/lazy-language-loader-0.3.5.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/lazy-language-loader-0.3.5.jar",
             "MD5": "13b62b06a28edf4a652f738e54eb0e62"
           }
         },
@@ -291,7 +291,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 14531,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/lazydfu-0.1.3.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/lazydfu-0.1.3.jar",
             "MD5": "b36e83f424c5bb5100a3e8ffea0c6ce7"
           }
         },
@@ -301,7 +301,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 49334,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/memoryleakfix-fabric-1.17+-1.1.5.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/memoryleakfix-fabric-1.17+-1.1.5.jar",
             "MD5": "a8461f89d267441752c95beb5448e940"
           }
         },
@@ -311,7 +311,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 458056,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/modernfix-fabric-5.17.0+mc1.20.4.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/modernfix-fabric-5.17.0+mc1.20.4.jar",
             "MD5": "c988c6a3371040def77a32f3741c9723"
           }
         },
@@ -321,7 +321,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 272851,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/moreculling-1.20.4-0.24.0.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/moreculling-1.20.4-0.24.0.jar",
             "MD5": "109804ad4b9f14a549f02bf26c98ac44"
           }
         },
@@ -331,7 +331,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 77943,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/MouseTweaks-fabric-mc1.20-2.26.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/MouseTweaks-fabric-mc1.20-2.26.jar",
             "MD5": "3138c776d370c90603938eb54d17469a"
           }
         },
@@ -341,7 +341,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 77393,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/reeses_sodium_options-1.7.2+mc1.20.4-build.102.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/reeses_sodium_options-1.7.2+mc1.20.4-build.102.jar",
             "MD5": "3353347619cc18acb9b6ef811ac6a310"
           }
         },
@@ -351,7 +351,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7158,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/serverpingerfixer-1.0.4.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/serverpingerfixer-1.0.4.jar",
             "MD5": "9c94c8925a4535a6d28f8a38b05cd876"
           }
         },
@@ -361,7 +361,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 385665,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/sodium-extra-0.5.4+mc1.20.4-build.116.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/sodium-extra-0.5.4+mc1.20.4-build.116.jar",
             "MD5": "a414a1b266c8e6bd22b37c72413000ff"
           }
         },
@@ -371,7 +371,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 937300,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/sodium-fabric-0.5.8+mc1.20.4.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/sodium-fabric-0.5.8+mc1.20.4.jar",
             "MD5": "0e0ac3a4042a917d32d1656e6af7a0f6"
           }
         },
@@ -381,7 +381,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 126410,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/starlight-1.1.3+fabric.f5dcd1a.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/starlight-1.1.3+fabric.f5dcd1a.jar",
             "MD5": "e4b2c577ba4501b8cc29c7217eeaf108"
           }
         },
@@ -391,7 +391,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 26460,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/stutterfix-mc1.20.3-0.2.0.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/stutterfix-mc1.20.3-0.2.0.jar",
             "MD5": "50e2f44c65d7452ff64aa046c9562f3f"
           }
         },
@@ -401,7 +401,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 144229,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/threadtweak-fabric-1.20.4-0.1.2.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/threadtweak-fabric-1.20.4-0.1.2.jar",
             "MD5": "e946665cf4916b4c4c48fbf94ea510ba"
           }
         },
@@ -411,7 +411,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 24107,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/videotape-1.2.1.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/videotape-1.2.1.jar",
             "MD5": "ae3d05e11e72621ce5ebfd671c464580"
           }
         },
@@ -421,7 +421,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 8136694,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/voicechat-fabric-1.20.4-2.5.20.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/voicechat-fabric-1.20.4-2.5.20.jar",
             "MD5": "1fb99f96c970e2405c22ecf100f1ab2e"
           }
         },
@@ -431,7 +431,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1474107,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/optionaloff/Xaeros_Minimap_24.1.1_Fabric_1.20.4.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/optionaloff/Xaeros_Minimap_24.1.1_Fabric_1.20.4.jar",
             "MD5": "c301070dc52186ce6e512d0849fca162"
           },
           "required": {
@@ -445,7 +445,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 979275,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/yet-another-config-lib-fabric-3.3.2+1.20.4.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/required/yet-another-config-lib-fabric-3.3.2+1.20.4.jar",
             "MD5": "6e7dd15c39d9e13c83589134e41a2d03"
           }
         },
@@ -455,7 +455,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1059619,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/optionaloff/Zoomify-2.13.2.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/fabricmods/optionaloff/Zoomify-2.13.2.jar",
             "MD5": "ab3d35b676c34df53199e1d95c3d779c"
           },
           "required": {
@@ -469,7 +469,7 @@
           "type": "File",
           "artifact": {
             "size": 272,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/files/config/defaultoptions/extra/config/iris.properties",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/files/config/defaultoptions/extra/config/iris.properties",
             "MD5": "85ced5b0073bb1343b71270f3de9e8b5",
             "path": "config/defaultoptions/extra/config/iris.properties"
           }
@@ -480,7 +480,7 @@
           "type": "File",
           "artifact": {
             "size": 144,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/files/config/defaultoptions/extra/config/languagereload.json",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/files/config/defaultoptions/extra/config/languagereload.json",
             "MD5": "2f867137b39a9180037a7bf793b85edf",
             "path": "config/defaultoptions/extra/config/languagereload.json"
           }
@@ -491,7 +491,7 @@
           "type": "File",
           "artifact": {
             "size": 1754,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/files/config/defaultoptions/extra/config/sodium-extra-options.json",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/files/config/defaultoptions/extra/config/sodium-extra-options.json",
             "MD5": "14d423cded0404beb151787f4f561b14",
             "path": "config/defaultoptions/extra/config/sodium-extra-options.json"
           }
@@ -502,7 +502,7 @@
           "type": "File",
           "artifact": {
             "size": 651,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/files/config/defaultoptions/extra/config/sodium-options.json",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/files/config/defaultoptions/extra/config/sodium-options.json",
             "MD5": "a1960afebec4652a11febb129a438c98",
             "path": "config/defaultoptions/extra/config/sodium-options.json"
           }
@@ -513,7 +513,7 @@
           "type": "File",
           "artifact": {
             "size": 3795,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/files/config/defaultoptions/keybindings.txt",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/files/config/defaultoptions/keybindings.txt",
             "MD5": "adaea581b79cd43ca67f46304fde900d",
             "path": "config/defaultoptions/keybindings.txt"
           }
@@ -524,7 +524,7 @@
           "type": "File",
           "artifact": {
             "size": 2478,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/files/config/defaultoptions/options.txt",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/files/config/defaultoptions/options.txt",
             "MD5": "66fa43d66b26db97db680f70a3223eac",
             "path": "config/defaultoptions/options.txt"
           }
@@ -535,7 +535,7 @@
           "type": "File",
           "artifact": {
             "size": 20246,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/files/servers.dat",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/files/servers.dat",
             "MD5": "a112e218e29f74525ed9642adbc6ad78",
             "path": "servers.dat"
           }
@@ -546,7 +546,7 @@
           "type": "File",
           "artifact": {
             "size": 1697643,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/files/shaderpacks/Bliss.zip",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/files/shaderpacks/Bliss.zip",
             "MD5": "60a2853b6d2a7421162d57a9356f5437",
             "path": "shaderpacks/Bliss.zip"
           }
@@ -557,7 +557,7 @@
           "type": "File",
           "artifact": {
             "size": 1582360,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/files/shaderpacks/Photon.zip",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/files/shaderpacks/Photon.zip",
             "MD5": "5ed7082f2c9ba549cedbf68c2226f2e2",
             "path": "shaderpacks/Photon.zip"
           }
@@ -568,7 +568,7 @@
           "type": "File",
           "artifact": {
             "size": 953760,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/files/shaderpacks/RTUShader-v5.0.zip",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/files/shaderpacks/RTUShader-v5.0.zip",
             "MD5": "3fea6f0017b16831ee31322f6d3f0568",
             "path": "shaderpacks/RTUShader-v5.0.zip"
           }
@@ -579,7 +579,7 @@
           "type": "File",
           "artifact": {
             "size": 7069209,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/files/shaderpacks/SEUS-Renewed-Low.zip",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/files/shaderpacks/SEUS-Renewed-Low.zip",
             "MD5": "6f4ad9a30baeb808119bb3d586e79799",
             "path": "shaderpacks/SEUS-Renewed-Low.zip"
           }
@@ -590,7 +590,7 @@
           "type": "File",
           "artifact": {
             "size": 10561761,
-            "url": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/files/shaderpacks/Shrimple.zip",
+            "url": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/servers/ug-1.20.4/files/shaderpacks/Shrimple.zip",
             "MD5": "8012fd24d43aab58092680bf44a55f5e",
             "path": "shaderpacks/Shrimple.zip"
           }

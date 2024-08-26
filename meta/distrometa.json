@@ -1,5 +1,5 @@
 {
-  "$schema": "file:///Users/ipecter/VSCProjects/BackToMilitaryDuty-Files/schemas/DistroMetaSchema.schema.json",
+  "$schema": "file:///Users/HeliosLauncher-IPECTER/VSCProjects/BackToMilitaryDuty-Files/schemas/DistroMetaSchema.schema.json",
   "meta": {
     "rss": "<LINK TO RSS FEED>",
     "discord": {
