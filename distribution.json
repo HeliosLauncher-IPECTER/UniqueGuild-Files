@@ -9,9 +9,9 @@
   "servers": [
     {
       "id": "ug-1.20.4",
-      "name": "마병대",
-      "description": "마병대 입소 (1.20.4)",
-      "icon": "https://github.com/IPECTER/UniqueGuild-Files/raw/main/server-icon.png",
+      "name": "유니크 길드 면접",
+      "description": "유니크 길드 면접 (1.20.4)",
+      "icon": "https://github.com/HeliosLauncher-IPECTER/UniqueGuild-Files/raw/main/server-icon.png",
       "version": "1.0.0",
       "address": "rmaaa.kro.kr",
       "minecraftVersion": "1.20.4",
